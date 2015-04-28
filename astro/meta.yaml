@@ -1,0 +1,23 @@
+package:
+  name: astro
+  version: "0.0.1"
+
+build:
+  has_prefix_files:
+    - test-has-prefix
+
+requirements:
+  run:
+    - python
+    - numpy
+    - matplotlib
+    - seaborn
+    - astropy
+    - yapf
+    - pytest
+    - ipython-notebook
+    - ipython-qtconsole
+    - scipy
+    - scikit-learn
+    - emcee
+    - triangle_plot
