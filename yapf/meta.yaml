@@ -1,11 +1,11 @@
 package:
   name: yapf
-  version: "0.1.6"
+  version: "0.1.7"
 
 source:
-  fn: yapf-0.1.6.tar.gz
-  url: https://pypi.python.org/packages/source/y/yapf/yapf-0.1.6.tar.gz
-  md5: 5a29ed7a96ebd7df2f5fe372e7b30fae
+  fn: yapf-0.1.7.tar.gz
+  url: https://pypi.python.org/packages/source/y/yapf/yapf-0.1.7.tar.gz
+  md5: 3392c52666e35a501465df753a72cdce
 #  patches:
    # List any patch files here
    # - fix.patch
